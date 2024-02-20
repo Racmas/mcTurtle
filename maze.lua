@@ -1,7 +1,3 @@
-front = turtle.detect()
-
-print(front)
-
-front = turtle.compare()
+front = turtle.inspect()
 
 print(front)
